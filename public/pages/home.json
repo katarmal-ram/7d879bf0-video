@@ -1,246 +1,195 @@
-
 {
-  "meta": {
-    "title": "Ashapura Brass Industries - Precision Engineering Excellence",
-    "description": "Leading manufacturer of precision brass components for automotive, pneumatic, aerospace, and hydraulic applications"
-  },
   "hero": {
-    "type": "video",
-    "enabled": true,
-    "title": "Precision Brass Engineering Excellence",
-    "subtitle": "Manufacturing superior brass components for critical applications",
-    "backgroundVideo": "https://dm0qx8t0i9gc9.cloudfront.net/watermarks/video/NL0L5N5Rgimkt8edi/videoblocks-authomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part_seemoxrjtx__456bda19ebbb32c7b3b6e1208019deab__P1080.mp4?response-content-disposition=attachment%3Bfilename%3Dauthomatic-lathe-drill-the-thread-and-rounds-the-edges-of-the-part-SBV-327456926-preview.mp4",
-    "backgroundImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=2000&q=80",
     "cta": {
-      "primary": "Explore Products",
+      "primary": "Explore Components",
+      "secondary": "Get a Quote",
       "primaryAction": "/products",
-      "secondary": "Get Quote",
       "secondaryAction": "/contact"
-    }
+    },
+    "type": "video",
+    "title": "Precision Manufacturing Excellence",
+    "enabled": true,
+    "subtitle": "Delivering High-Quality Precision Components for Critical Applications",
+    "backgroundImage": "https://images.unsplash.com/photo-1666618090858-fbcee636bd3e",
+    "backgroundVideo": "https://hthusloogpnfqefzskvh.supabase.co/storage/v1/object/public/videos//cnc%20machining%20brass.mp4"
+  },
+  "meta": {
+    "title": "Parth Enterprise - Precision Component Manufacturing",
+    "description": "25 years of expert precision manufacturing, specializing in ball valves, tower bolts, and industrial components with advanced laser marking services."
   },
   "sections": {
+    "cta": {
+      "type": "cta",
+      "title": "Ready to Get Started?",
+      "enabled": true,
+      "subtitle": "Transform your project with our precision engineering and comprehensive manufacturing solutions",
+      "primaryCTA": {
+        "text": "View Products",
+        "action": "/products"
+      },
+      "secondaryCTA": {
+        "text": "Contact Us",
+        "action": "/contact"
+      }
+    },
+    "faqs": {
+      "type": "faqs",
+      "items": [
+        {
+          "id": "minimum-order",
+          "answer": "We accommodate both small and large volume orders, with flexible minimum order quantities tailored to your specific requirements.",
+          "question": "What are your minimum order quantities?"
+        },
+        {
+          "id": "lead-time",
+          "answer": "Typical lead times range from 2-4 weeks depending on product complexity and order volume. Custom timelines available for urgent projects.",
+          "question": "What are your standard delivery timelines?"
+        },
+        {
+          "id": "quality",
+          "answer": "We maintain rigorous quality control processes and hold multiple industry certifications, ensuring consistent precision and reliability.",
+          "question": "How do you ensure product quality?"
+        },
+        {
+          "id": "customization",
+          "answer": "Our engineering team specializes in custom component design and can adapt products to meet your specific technical requirements.",
+          "question": "Do you offer customized component solutions?"
+        }
+      ],
+      "title": "Frequently Asked Questions",
+      "enabled": true,
+      "subtitle": "Get instant answers to common queries about our precision manufacturing services"
+    },
+    "stats": {
+      "type": "stats",
+      "items": [
+        {
+          "label": "Years Experience",
+          "number": "25+"
+        },
+        {
+          "label": "Product Variants",
+          "number": "500+"
+        },
+        {
+          "label": "Countries Served",
+          "number": "25+"
+        },
+        {
+          "label": "Satisfied Clients",
+          "number": "10000+"
+        }
+      ],
+      "title": "Our Achievements",
+      "enabled": true,
+      "subtitle": "Delivering precision and excellence across global markets"
+    },
+    "expertise": {
+      "type": "expertise",
+      "title": "Industries We Serve",
+      "enabled": true,
+      "sectors": [
+        {
+          "id": "industrial",
+          "name": "Industrial Manufacturing",
+          "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+          "description": "Specialized precision components for demanding industrial applications, ensuring reliability and performance",
+          "applications": [
+            "Ball Valves",
+            "Tower Bolts",
+            "Pneumatic Components",
+            "Custom Machined Parts"
+          ]
+        },
+        {
+          "id": "automotive",
+          "name": "Automotive Engineering",
+          "image": "https://images.unsplash.com/photo-1519861531473-1f3098c4f35a",
+          "description": "High-precision components designed for automotive sector performance and durability",
+          "applications": [
+            "Precision Fasteners",
+            "Mechanical Components",
+            "Engineered Brackets",
+            "Specialized Connectors"
+          ]
+        }
+      ],
+      "subtitle": "Precision Solutions Across Multiple Sectors",
+      "description": "With 25 years of manufacturing expertise, we deliver high-quality precision components across diverse industrial applications, maintaining exceptional standards of engineering and reliability."
+    },
     "whyChooseUs": {
       "type": "why-choose-us",
-      "enabled": true,
-      "title": "Why Choose Ashapura Brass Industries",
-      "subtitle": "Excellence in precision brass manufacturing",
       "items": [
         {
           "id": "quality",
-          "icon": "award",
-          "title": "Superior Quality",
-          "description": "ISO 9001:2015 certified manufacturing processes ensuring consistent quality and reliability in every component."
+          "icon": "shield-check",
+          "title": "Uncompromising Quality Standards",
+          "description": "Our commitment to precision is backed by rigorous quality control processes and industry-leading certifications, ensuring every component meets the highest performance standards."
         },
         {
           "id": "experience",
-          "icon": "clock",
-          "title": "35+ Years Experience",
-          "description": "Over three decades of expertise in precision brass machining and manufacturing complex components."
+          "icon": "calendar",
+          "title": "25 Years of Manufacturing Excellence",
+          "description": "Decades of specialized experience translate into deep technical knowledge and the ability to solve complex manufacturing challenges with innovative solutions."
         },
         {
           "id": "technology",
           "icon": "cog",
-          "title": "Advanced Technology",
-          "description": "State-of-the-art CNC machines and automated production lines for precision manufacturing."
+          "title": "Advanced Manufacturing Technologies",
+          "description": "We leverage cutting-edge equipment and precision engineering techniques to deliver components that exceed industry expectations and client requirements."
         }
-      ]
+      ],
+      "title": "Why Choose Parth Enterprise",
+      "enabled": true,
+      "subtitle": "Your Trusted Partner in Precision Manufacturing"
     },
     "aboutusintro": {
       "type": "about-us-intro",
+      "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
+      "title": "About Parth Enterprise",
       "enabled": true,
-      "title": "About Ashapura Brass Industries",
-      "subtitle": "Leading precision brass component manufacturer",
-      "description": "Established in 1985, Ashapura Brass Industries has been at the forefront of precision brass manufacturing, serving automotive, pneumatic, aerospace, and hydraulic industries with superior quality components and exceptional customer service.",
-      "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=800&q=80",
+      "subtitle": "Precision Engineering, Unmatched Quality",
       "highlights": [
         "ISO 9001:2015 Certified",
-        "500+ Product Variants Available",
-        "50+ Countries Served",
-        "24/7 Technical Support"
-      ]
-    },
-    "stats": {
-      "type": "stats",
-      "enabled": true,
-      "title": "Our Manufacturing Achievements",
-      "subtitle": "Delivering excellence across global markets",
-      "items": [
-        { "number": "35+", "label": "Years Experience" },
-        { "number": "500+", "label": "Product Variants" },
-        { "number": "50+", "label": "Countries Served" },
-        { "number": "10000+", "label": "Satisfied Clients" }
-      ]
-    },
-    "expertise": {
-      "type": "expertise",
-      "enabled": true,
-      "title": "Our Industry Expertise",
-      "subtitle": "Specialized brass components for critical applications",
-      "description": "We serve diverse industries with precision-engineered brass components that meet the highest quality standards.",
-      "sectors": [
-        {
-          "id": "automotive",
-          "name": "Automotive Industry",
-          "description": "High-precision brass components for automotive systems including engine parts and fuel delivery systems.",
-          "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Engine Components",
-            "Fuel Systems",
-            "Brake Systems",
-            "Transmission Parts",
-            "Cooling Systems"
-          ]
-        },
-        {
-          "id": "electrical",
-          "name": "Electrical Industry",
-          "description": "Precision electrical components including terminals, connectors, and switching elements.",
-          "image": "https://images.unsplash.com/photo-1483058712412-4245e9b90334?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Electrical Contacts",
-            "Switch Connectors",
-            "Terminal Switches",
-            "Circuit Breakers",
-            "Electronic Components"
-          ]
-        },
-        {
-          "id": "construction",
-          "name": "Construction Industry",
-          "description": "Durable brass fittings and hardware for construction and architectural applications.",
-          "image": "https://images.unsplash.com/photo-1449157291145-7efd050a4d0e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Plumbing Fittings",
-            "Hardware Components",
-            "Architectural Fittings",
-            "Structural Components",
-            "Decorative Elements"
-          ]
-        },
-        {
-          "id": "marine",
-          "name": "Marine Industry",
-          "description": "Corrosion-resistant brass components designed for marine and offshore applications.",
-          "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Propeller Shafts",
-            "Marine Valves",
-            "Hull Fittings",
-            "Navigation Equipment",
-            "Deck Hardware"
-          ]
-        },
-        {
-          "id": "aerospace",
-          "name": "Aerospace Industry",
-          "description": "High-precision components meeting stringent aerospace quality and safety standards.",
-          "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Aircraft Components",
-            "Hydraulic Fittings",
-            "Navigation Systems",
-            "Control Mechanisms",
-            "Safety Equipment"
-          ]
-        },
-        {
-          "id": "industrial",
-          "name": "Industrial Machinery",
-          "description": "Robust brass components for heavy machinery and industrial equipment applications.",
-          "image": "https://images.unsplash.com/photo-1565043589221-1a6fd9ae45c7?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Machine Components",
-            "Hydraulic Fittings",
-            "Valve Bodies",
-            "Pressure Vessels",
-            "Heat Exchangers"
-          ]
-        },
-        {
-          "id": "hvac",
-          "name": "HVAC Systems",
-          "description": "Precision fittings and components for heating, ventilation, and air conditioning systems.",
-          "image": "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Pipe Fittings",
-            "Valve Components",
-            "Control Parts",
-            "Distribution Systems",
-            "System Components"
-          ]
-        },
-        {
-          "id": "oil-gas",
-          "name": "Oil & Gas",
-          "description": "High-pressure resistant components for oil and gas exploration and processing equipment.",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=600&q=80",
-          "applications": [
-            "Drilling Equipment",
-            "Pipeline Fittings",
-            "Pressure Gauges",
-            "Control Valves",
-            "Safety Equipment"
-          ]
-        }
-      ]
+        "500+ Product Variants",
+        "25+ Countries Served",
+        "Advanced Laser Marking Services",
+        "Comprehensive Packaging Solutions"
+      ],
+      "description": "Founded with a vision of delivering exceptional precision components, Parth Enterprise has grown into a leading manufacturer specializing in ball valves, tower bolts, and advanced industrial components. Our 25-year journey reflects our commitment to innovation, quality, and customer satisfaction across global markets."
     },
     "testimonials": {
       "type": "testimonials",
-      "enabled": true,
-      "title": "What Our Clients Say",
-      "subtitle": "Trusted by industry leaders worldwide",
       "items": [
         {
           "id": "client-1",
-          "name": "Rajesh Kumar",
-          "company": "AutoTech Engineering Ltd",
-          "designation": "Purchase Manager",
-          "content": "Ashapura Brass Industries has consistently delivered high-quality components on time. Their precision and attention to detail is remarkable.",
+          "name": "Michael Rodriguez",
+          "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
           "rating": 5,
-          "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80"
+          "company": "Global Industrial Solutions",
+          "content": "Parth Enterprise consistently delivers precision components that meet our most demanding specifications. Their technical expertise and reliability are unmatched in the industry.",
+          "designation": "Procurement Director"
         },
         {
           "id": "client-2",
-          "name": "Sarah Johnson",
-          "company": "Global Industrial Solutions",
-          "designation": "Procurement Director",
-          "content": "We've been working with Ashapura for over 10 years. Their quality standards and customer service are exceptional.",
+          "name": "Sarah Thompson",
+          "image": "https://images.unsplash.com/photo-1573496359394-025c7bea9c16",
           "rating": 5,
-          "image": "https://images.unsplash.com/photo-1494790108755-2616b612b1a7?auto=format&fit=crop&w=150&q=80"
+          "company": "Advanced Manufacturing Technologies",
+          "content": "We've partnered with Parth Enterprise for over a decade. Their commitment to quality, innovation, and customer service sets them apart from other manufacturers.",
+          "designation": "Operations Manager"
         }
-      ]
-    },
-    "faqs": {
-      "type": "faqs",
+      ],
+      "title": "Client Success Stories",
       "enabled": true,
-      "title": "Frequently Asked Questions",
-      "subtitle": "Common questions about our products and services",
-      "items": [
-        {
-          "id": "minimum-order",
-          "question": "What is the minimum order quantity?",
-          "answer": "Our minimum order quantity varies by product complexity. For standard items, it's typically 100 pieces, while custom components may require higher quantities."
-        },
-        {
-          "id": "lead-time",
-          "question": "What are the typical lead times?",
-          "answer": "Standard products: 2-3 weeks. Custom components: 4-6 weeks. Rush orders can be accommodated with additional charges."
-        }
-      ]
-    },
-    "cta": {
-      "type": "cta",
-      "enabled": true,
-      "title": "Ready to Experience Precision Excellence?",
-      "subtitle": "Join thousands of satisfied clients who trust Ashapura Brass Industries for their precision manufacturing needs. Get started today.",
-      "primaryCTA": {
-        "text": "View Our Products",
-        "action": "/products"
-      },
-      "secondaryCTA": {
-        "text": "Contact Now",
-        "action": "tel:+91-288-2710234"
-      }
+      "subtitle": "Trusted by Industry Leaders Worldwide"
     }
+  },
+  "_instructions": {
+    "usage": "Generate dynamic home page content that showcases company strengths and expertise",
+    "purpose": "Home page template with AI generation prompts",
+    "content_tone": "Professional, confident, customer-focused",
+    "icon_options": "Available Lucide icons: award, clock, cog, wrench, truck, headphones, shield, shield-check, star, zap, settings, check-circle, trophy, users, globe, target, trending-up, thumbs-up, lightbulb, heart, cpu, gauge, calendar, package, phone, mail, map-pin",
+    "sections_count": "Sections can be scaled - add/remove items based on company size and offerings"
   }
 }
