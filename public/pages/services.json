@@ -33,7 +33,7 @@
           "id": "laser-marking",
           "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
           "title": "Laser Marking Services",
-          "description": "Advanced laser marking technology for precise and permanent component identification. Our state-of-the-art laser marking ensures clear, durable, and high-quality markings on various materials and components.",
+          "description": "Advanced laser marking technology for precise and permanent component identification. Our state-of-the-art laser marking ensures clear, durable, and high-quality markings on various materials and component types.",
           "capabilities": [
             "High-precision laser marking",
             "Multiple material compatibility",
@@ -47,7 +47,7 @@
           "title": "Professional Packaging Solutions",
           "description": "Comprehensive packaging services designed to protect and preserve your precision components during storage and transportation. We ensure maximum protection and minimal risk of damage.",
           "capabilities": [
-            "Custom packaging designs",
+            "Custom packaging design",
             "Protective packaging materials",
             "Anti-corrosion solutions",
             "Secure transportation packaging"
@@ -59,16 +59,16 @@
           "title": "Reliable Transportation Services",
           "description": "Efficient and secure transportation of precision components with our specialized logistics solutions. We guarantee safe and timely delivery of your critical manufacturing components.",
           "capabilities": [
-            "Specialized logistics",
-            "Secure transportation",
+            "Nationwide transportation",
+            "Specialized handling",
             "Tracking and monitoring",
             "Timely delivery"
           ]
         }
       ],
-      "title": "Our Comprehensive Services",
+      "title": "Our Service Offerings",
       "enabled": true,
-      "subtitle": "Delivering End-to-End Precision Manufacturing Solutions"
+      "subtitle": "Comprehensive Manufacturing Solutions for Precision Components"
     },
     "capabilities": {
       "type": "capabilities",
@@ -79,7 +79,7 @@
           "metrics": [
             {
               "label": "Monthly Production",
-              "value": "10,000+ Components"
+              "value": "50,000+ Components"
             },
             {
               "label": "Operating Hours",
@@ -87,7 +87,7 @@
             },
             {
               "label": "Delivery Timeline",
-              "value": "2-5 Business Days"
+              "value": "7-14 Days"
             }
           ],
           "description": "High-volume production capabilities with flexible manufacturing processes to meet diverse client requirements."
@@ -128,12 +128,12 @@
               "value": "ISO 9001:2015"
             }
           ],
-          "description": "Commitment to highest quality standards with rigorous quality control and precision manufacturing processes."
+          "description": "Rigorous quality control processes ensuring highest standards of precision and reliability."
         }
       ],
-      "title": "Our Advanced Capabilities",
+      "title": "Our Manufacturing Capabilities",
       "enabled": true,
-      "subtitle": "Cutting-Edge Technology and Unmatched Manufacturing Expertise"
+      "subtitle": "Advanced Technology and Precision Engineering"
     },
     "manufacturing-process": {
       "type": "manufacturing-process",
@@ -141,27 +141,27 @@
         {
           "step": 1,
           "title": "Client Consultation",
-          "description": "Detailed discussion of client requirements and project specifications."
+          "description": "Detailed discussion of component requirements, specifications, and project goals."
         },
         {
           "step": 2,
           "title": "Design and Planning",
-          "description": "Comprehensive design and manufacturing strategy development."
+          "description": "Comprehensive design analysis and manufacturing strategy development."
         },
         {
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "Advanced manufacturing using state-of-the-art precision technologies."
+          "description": "Executing component production using advanced manufacturing technologies."
         },
         {
           "step": 4,
           "title": "Quality Inspection",
-          "description": "Rigorous quality testing and dimensional verification of components."
+          "description": "Rigorous quality testing and precision measurement of manufactured components."
         },
         {
           "step": 5,
-          "title": "Finishing and Preparation",
-          "description": "Final surface treatments and component preparation for delivery."
+          "title": "Finishing and Refinement",
+          "description": "Final touches and surface treatments to meet exact client specifications."
         },
         {
           "step": 6,
