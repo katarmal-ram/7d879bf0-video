@@ -9,13 +9,13 @@
   },
   "meta": {
     "title": "Parth Enterprise - Precision Components Manufacturing Contact",
-    "description": "Contact our 25-year experienced precision components manufacturing team. Quick responses, expert solutions for industrial component needs."
+    "description": "Contact our 25-year experienced precision components manufacturing team. Quick responses, expert solutions, and comprehensive industrial support."
   },
   "sections": {
     "contactForm": {
       "type": "contact-form",
       "items": [],
-      "title": "Send Us Your Inquiry",
+      "title": "Send Us a Message",
       "enabled": true,
       "subtitle": "Fill out the form and we'll respond within 24 hours with comprehensive information"
     },
@@ -31,14 +31,14 @@
         {
           "icon": "phone",
           "type": "phone",
-          "title": "Contact Numbers",
-          "content": "+91 9876543210, +91 8765432109"
+          "title": "Contact Number",
+          "content": "+91 9876543210"
         },
         {
           "icon": "mail",
           "type": "email",
-          "title": "Email Communication",
-          "content": "info@parthenterprise.com, sales@parthenterprise.com"
+          "title": "Email Address",
+          "content": "info@parthenterprise.com"
         },
         {
           "icon": "whatsapp",
@@ -47,9 +47,9 @@
           "content": "+91 9876543210"
         }
       ],
-      "title": "Multiple Ways to Connect",
+      "title": "Contact Information",
       "enabled": true,
-      "subtitle": "We're accessible through various channels to serve your precision manufacturing needs"
+      "subtitle": "Multiple channels to connect with our precision manufacturing experts"
     }
   }
 }
