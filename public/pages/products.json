@@ -15,12 +15,12 @@
       {
         "id": "valves",
         "name": "Ball Valves",
-        "image": "https://images.unsplash.com/photo-1581578017093-65e44f3bcynb",
+        "image": "https://images.unsplash.com/photo-1581091870434-d072ced64c53",
         "products": [
           {
             "id": "industrial-ball-valve",
             "name": "Industrial Ball Valve",
-            "image": "https://images.unsplash.com/photo-1581578017093-65e44f3bc123",
+            "image": "https://images.unsplash.com/photo-1581091226825-9c78b5c3d5a2",
             "description": "High-performance ball valve designed for critical industrial applications with superior sealing and durability",
             "applications": [
               "Chemical Processing",
@@ -31,23 +31,23 @@
             "specifications": [
               "Pressure Rating: Up to 2500 PSI",
               "Temperature Range: -40°C to 250°C",
-              "Material: Stainless Steel, Carbon Steel",
+              "Material: Stainless Steel, Brass, Carbon Steel",
               "Size Range: 1/2 inch to 24 inches"
             ]
           }
         ],
-        "description": "Premium ball valves engineered for maximum performance and reliability in industrial environments"
+        "description": "Premium ball valves engineered for precise flow control and maximum reliability in industrial environments"
       },
       {
         "id": "fasteners",
         "name": "Tower Bolts",
-        "image": "https://images.unsplash.com/photo-1581578017093-65e44f3bcdef",
+        "image": "https://images.unsplash.com/photo-1581091214846-9d6b0d3c9f5c",
         "products": [
           {
             "id": "heavy-duty-tower-bolt",
             "name": "Heavy Duty Tower Bolt",
-            "image": "https://images.unsplash.com/photo-1581578017093-65e44f3bcxyz",
-            "description": "Robust tower bolt designed for secure and reliable fastening in construction and industrial applications",
+            "image": "https://images.unsplash.com/photo-1581091226825-9c78b5c3d5a2",
+            "description": "Robust tower bolt designed for secure fastening in construction and industrial applications",
             "applications": [
               "Construction Projects",
               "Industrial Machinery",
@@ -62,13 +62,13 @@
             ]
           }
         ],
-        "description": "Precision-engineered tower bolts providing superior strength and reliability"
+        "description": "Precision-engineered tower bolts providing superior strength and reliability for critical fastening requirements"
       }
     ],
     "categoriesTitle": "Our Product Categories",
     "allProductsTitle": "Complete Product Range",
-    "categoriesSubtitle": "Find the Perfect Components for Your Industrial Needs",
-    "allProductsSubtitle": "Comprehensive Solutions with 25 Years of Manufacturing Excellence"
+    "categoriesSubtitle": "Find the Perfect Precision Component for Your Needs",
+    "allProductsSubtitle": "Comprehensive Solutions for Industrial Applications"
   },
   "sections": {
     "cta": {
@@ -82,15 +82,15 @@
       },
       "secondaryCTA": {
         "text": "Technical Support",
-        "action": "+91-9999999999"
+        "action": "tel:+91-123-456-7890"
       }
     },
     "products": {
       "type": "products",
       "items": [],
-      "title": "Our Precision Product Range",
+      "title": "Our Product Portfolio",
       "enabled": true,
-      "subtitle": "High-Quality Industrial Components Manufactured with Precision and Care"
+      "subtitle": "25 Years of Manufacturing Excellence in Precision Components"
     }
   }
 }
