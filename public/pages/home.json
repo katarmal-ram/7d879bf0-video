@@ -20,9 +20,9 @@
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Ready to Get Started?",
+      "title": "Ready to Transform Your Manufacturing Needs?",
       "enabled": true,
-      "subtitle": "Transform your project with our precision engineering and comprehensive manufacturing solutions",
+      "subtitle": "Experience cutting-edge precision components with our comprehensive manufacturing solutions",
       "primaryCTA": {
         "text": "View Products",
         "action": "/products"
@@ -37,23 +37,23 @@
       "items": [
         {
           "id": "minimum-order",
-          "answer": "We accommodate both small and large volume orders, with flexible minimum order quantities tailored to your specific requirements.",
+          "answer": "We accommodate orders from small batches to large-scale production, with flexible minimum order quantities tailored to your specific requirements.",
           "question": "What are your minimum order quantities?"
         },
         {
           "id": "lead-time",
-          "answer": "Typical lead times range from 2-4 weeks depending on product complexity and order volume. Custom timelines available for urgent projects.",
-          "question": "What are your standard delivery timelines?"
+          "answer": "Our standard lead times range from 2-4 weeks depending on component complexity and order volume, with expedited options available.",
+          "question": "What are your typical production lead times?"
         },
         {
           "id": "quality",
-          "answer": "We maintain rigorous quality control processes and hold multiple industry certifications, ensuring consistent precision and reliability.",
+          "answer": "We maintain rigorous quality control processes, utilizing advanced precision measurement tools and adhering to international manufacturing standards.",
           "question": "How do you ensure product quality?"
         },
         {
           "id": "customization",
-          "answer": "Our engineering team specializes in custom component design and can adapt products to meet your specific technical requirements.",
-          "question": "Do you offer customized component solutions?"
+          "answer": "Yes, we specialize in custom precision component design and manufacturing, working closely with clients to meet exact specifications.",
+          "question": "Do you offer custom component manufacturing?"
         }
       ],
       "title": "Frequently Asked Questions",
@@ -82,7 +82,7 @@
       ],
       "title": "Our Achievements",
       "enabled": true,
-      "subtitle": "Delivering precision and excellence across global markets"
+      "subtitle": "Delivering precision and excellence across global manufacturing landscapes"
     },
     "expertise": {
       "type": "expertise",
@@ -98,24 +98,23 @@
             "Ball Valves",
             "Tower Bolts",
             "Pneumatic Components",
-            "Custom Machined Parts"
+            "Custom Precision Parts"
           ]
         },
         {
           "id": "automotive",
           "name": "Automotive Engineering",
-          "image": "https://images.unsplash.com/photo-1519861531473-1f3098c4f35a",
-          "description": "High-precision components designed for automotive sector performance and durability",
+          "image": "https://images.unsplash.com/photo-1519642918284-3b72a9d4967f",
+          "description": "High-precision components designed for automotive performance and durability",
           "applications": [
             "Precision Fasteners",
             "Mechanical Components",
-            "Engineered Brackets",
             "Specialized Connectors"
           ]
         }
       ],
-      "subtitle": "Precision Solutions Across Multiple Sectors",
-      "description": "With 25 years of manufacturing expertise, we deliver high-quality precision components across diverse industrial applications, maintaining exceptional standards of engineering and reliability."
+      "subtitle": "Delivering precision solutions across diverse industrial sectors",
+      "description": "With 25 years of manufacturing expertise, we provide cutting-edge precision components tailored to meet the most demanding industry standards and specifications."
     },
     "whyChooseUs": {
       "type": "why-choose-us",
@@ -124,31 +123,31 @@
           "id": "quality",
           "icon": "shield-check",
           "title": "Uncompromising Quality Standards",
-          "description": "Our commitment to precision is backed by rigorous quality control processes and industry-leading certifications, ensuring every component meets the highest performance standards."
+          "description": "Our commitment to precision is backed by rigorous quality control processes and advanced manufacturing technologies, ensuring exceptional component reliability."
         },
         {
           "id": "experience",
           "icon": "calendar",
           "title": "25 Years of Manufacturing Excellence",
-          "description": "Decades of specialized experience translate into deep technical knowledge and the ability to solve complex manufacturing challenges with innovative solutions."
+          "description": "Decades of industry experience translate into deep technical expertise and innovative manufacturing solutions for our clients."
         },
         {
           "id": "technology",
           "icon": "cog",
           "title": "Advanced Manufacturing Technologies",
-          "description": "We leverage cutting-edge equipment and precision engineering techniques to deliver components that exceed industry expectations and client requirements."
+          "description": "We leverage state-of-the-art equipment and precision techniques to deliver superior components with exceptional accuracy and consistency."
         }
       ],
       "title": "Why Choose Parth Enterprise",
       "enabled": true,
-      "subtitle": "Your Trusted Partner in Precision Manufacturing"
+      "subtitle": "Your trusted partner in precision component manufacturing"
     },
     "aboutusintro": {
       "type": "about-us-intro",
       "image": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e",
       "title": "About Parth Enterprise",
       "enabled": true,
-      "subtitle": "Precision Engineering, Unmatched Quality",
+      "subtitle": "Precision Manufacturing Pioneers",
       "highlights": [
         "ISO 9001:2015 Certified",
         "500+ Product Variants",
@@ -156,7 +155,7 @@
         "Advanced Laser Marking Services",
         "Comprehensive Packaging Solutions"
       ],
-      "description": "Founded with a vision of delivering exceptional precision components, Parth Enterprise has grown into a leading manufacturer specializing in ball valves, tower bolts, and advanced industrial components. Our 25-year journey reflects our commitment to innovation, quality, and customer satisfaction across global markets."
+      "description": "Founded 25 years ago, Parth Enterprise has established itself as a leading precision component manufacturer. We specialize in producing high-quality ball valves, tower bolts, and pneumatic components, serving diverse industrial sectors with unmatched expertise and technological innovation."
     },
     "testimonials": {
       "type": "testimonials",
@@ -167,7 +166,7 @@
           "image": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
           "rating": 5,
           "company": "Global Industrial Solutions",
-          "content": "Parth Enterprise consistently delivers precision components that meet our most demanding specifications. Their technical expertise and reliability are unmatched in the industry.",
+          "content": "Parth Enterprise consistently delivers exceptional precision components that meet our most demanding specifications. Their technical expertise and commitment to quality are unparalleled.",
           "designation": "Procurement Director"
         },
         {
@@ -176,13 +175,13 @@
           "image": "https://images.unsplash.com/photo-1573496359394-025c7bea9c16",
           "rating": 5,
           "company": "Advanced Manufacturing Technologies",
-          "content": "We've partnered with Parth Enterprise for over a decade. Their commitment to quality, innovation, and customer service sets them apart from other manufacturers.",
+          "content": "We've been partnering with Parth Enterprise for over a decade. Their innovative approach and reliable manufacturing solutions have been crucial to our success.",
           "designation": "Operations Manager"
         }
       ],
       "title": "Client Success Stories",
       "enabled": true,
-      "subtitle": "Trusted by Industry Leaders Worldwide"
+      "subtitle": "Trusted by industry leaders worldwide"
     }
   },
   "_instructions": {
