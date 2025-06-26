@@ -7,20 +7,20 @@
     "type": "image",
     "title": "About Parth Enterprise",
     "enabled": true,
-    "subtitle": "Precision Manufacturing Excellence Since 1998",
-    "description": "With 25 years of dedicated experience, Parth Enterprise has been a leading precision components manufacturer, delivering high-quality ball valves, tower bolts, and specialized industrial components. Our commitment to excellence drives every aspect of our manufacturing process.",
+    "subtitle": "Excellence in Precision Manufacturing Since 1998",
+    "description": "Parth Enterprise has been a leading precision components manufacturer for over 25 years, delivering high-quality ball valves, tower bolts, and specialized industrial components. Our commitment to innovation and quality sets us apart in the manufacturing industry.",
     "backgroundImage": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2"
   },
   "meta": {
-    "title": "Parth Enterprise - Precision Manufacturing Since 1998",
-    "description": "Leading precision components manufacturer with 25 years of expertise in ball valves, tower bolts, and industrial components. Quality-driven manufacturing solutions."
+    "title": "Parth Enterprise - Precision Manufacturing Excellence Since 1998",
+    "description": "Leading precision components manufacturer with 25 years of experience, specializing in ball valves, tower bolts, and industrial components with advanced manufacturing capabilities."
   },
   "sections": {
     "cta": {
       "type": "cta",
-      "title": "Partner with Precision Manufacturing Experts",
+      "title": "Partner with Industry Leaders",
       "enabled": true,
-      "subtitle": "Transform Your Industrial Component Requirements with Our Advanced Manufacturing Solutions",
+      "subtitle": "Transform Your Manufacturing Needs with Our Precision Solutions",
       "primaryCTA": {
         "text": "Get Quote",
         "action": "/contact"
@@ -37,15 +37,15 @@
           "id": "manufacturing-excellence",
           "year": "2022",
           "title": "Manufacturing Excellence Award",
-          "authority": "Industrial Manufacturing Association",
-          "description": "Recognized for outstanding precision manufacturing and consistent quality delivery"
+          "authority": "National Manufacturing Association",
+          "description": "Recognized for outstanding precision engineering and consistent quality in component manufacturing"
         },
         {
           "id": "export-achievement",
           "year": "2021",
-          "title": "Export Performance Award",
-          "authority": "National Export Council",
-          "description": "Acknowledged for significant contributions to industrial component exports"
+          "title": "Export Excellence Award",
+          "authority": "Chamber of Commerce",
+          "description": "Acknowledged for significant international market expansion and export performance"
         }
       ],
       "title": "Awards & Recognition",
@@ -63,14 +63,14 @@
         },
         {
           "id": "iso-environmental",
-          "name": "ISO 14001:2015",
+          "name": "ISO 14001",
           "image": "/placeholder.svg",
           "description": "Environmental management certification demonstrating sustainable manufacturing practices"
         }
       ],
       "title": "Certifications & Standards",
       "enabled": true,
-      "subtitle": "Committed to Highest Quality and Environmental Standards"
+      "subtitle": "Committed to Highest Quality and Compliance Standards"
     },
     "companyJourney": {
       "type": "company-journey",
@@ -78,27 +78,27 @@
         {
           "year": "1998",
           "title": "Company Foundation",
-          "description": "Established with a vision to provide high-precision industrial components"
+          "description": "Established with a vision to provide high-quality precision components to industrial markets"
         },
         {
           "year": "2005",
-          "title": "First Manufacturing Expansion",
-          "description": "Expanded production facilities and introduced advanced manufacturing technologies"
+          "title": "First Major Expansion",
+          "description": "Expanded manufacturing facilities and introduced advanced CNC machining technologies"
         },
         {
           "year": "2012",
-          "title": "Quality Certification Achievement",
-          "description": "Obtained ISO 9001:2015 certification, reinforcing our commitment to quality"
+          "title": "Quality Certification",
+          "description": "Achieved ISO 9001:2015 certification, solidifying our commitment to quality management"
         },
         {
           "year": "2018",
-          "title": "International Market Expansion",
-          "description": "Successfully expanded our market presence across multiple international regions"
+          "title": "International Market Entry",
+          "description": "Successfully expanded international market presence across multiple countries"
         },
         {
           "year": "2022",
-          "title": "Technology Modernization",
-          "description": "Invested in state-of-the-art CNC and laser marking technologies"
+          "title": "Technology Innovation",
+          "description": "Implemented advanced laser marking and automated packaging technologies"
         }
       ],
       "title": "Our Journey",
@@ -111,10 +111,10 @@
         {
           "id": "cnc-machines",
           "image": "https://images.unsplash.com/photo-1581579186913-45ac24ed53d2",
-          "title": "Advanced CNC Manufacturing",
+          "title": "Advanced CNC Machining Center",
           "capacity": "12 High-Precision CNC Machines",
-          "description": "Cutting-edge CNC machinery enabling precise component manufacturing",
-          "specifications": "High-accuracy machining, multi-axis capabilities, automated production"
+          "description": "State-of-the-art CNC machining capabilities for complex precision component manufacturing",
+          "specifications": "High-accuracy tolerances, multi-axis machining, advanced tool management"
         }
       ],
       "title": "Our Infrastructure",
@@ -127,22 +127,22 @@
       "items": [
         {
           "id": "overview",
-          "content": "Parth Enterprise is a leading precision components manufacturer with 25 years of industry expertise. We specialize in producing high-quality ball valves, tower bolts, and industrial components, serving diverse manufacturing sectors with advanced technological solutions.",
+          "content": "Parth Enterprise is a leading precision components manufacturer with 25 years of industry experience. We specialize in producing high-quality ball valves, tower bolts, and industrial components for diverse sectors. Our commitment to innovation, quality, and customer satisfaction drives our continuous growth and technological advancement.",
           "highlights": [
             "ISO 9001:2015 Certified",
-            "Advanced CNC Manufacturing",
+            "Advanced CNC Machining Technology",
             "International Market Presence",
-            "Custom Component Solutions",
-            "Laser Marking Services",
-            "Comprehensive Packaging",
-            "Reliable Transportation",
+            "Custom Engineering Solutions",
+            "Comprehensive Quality Control",
+            "Laser Marking Capabilities",
+            "Sustainable Manufacturing Practices",
             "99.5% On-Time Delivery Rate"
           ]
         }
       ],
       "title": "Company Overview",
       "enabled": true,
-      "subtitle": "Precision Manufacturing Leaders"
+      "subtitle": "Precision Engineering, Uncompromising Quality"
     },
     "manufacturingProcess": {
       "type": "manufacturing-process",
@@ -151,37 +151,37 @@
           "id": "design",
           "step": 1,
           "title": "Engineering Design",
-          "description": "Comprehensive design and engineering of precision components"
+          "description": "Comprehensive design and engineering phase using advanced CAD/CAM technologies"
         },
         {
           "id": "material",
           "step": 2,
           "title": "Material Selection",
-          "description": "Rigorous material sourcing and quality verification"
+          "description": "Rigorous material sourcing and selection to ensure highest quality components"
         },
         {
           "id": "production",
           "step": 3,
           "title": "Precision Manufacturing",
-          "description": "Advanced CNC machining and manufacturing processes"
+          "description": "Advanced CNC machining and manufacturing processes with tight tolerances"
         },
         {
           "id": "quality",
           "step": 4,
-          "title": "Quality Control",
-          "description": "Comprehensive inspection and quality assurance procedures"
+          "title": "Quality Assurance",
+          "description": "Comprehensive quality control and inspection at multiple production stages"
         },
         {
           "id": "finishing",
           "step": 5,
           "title": "Surface Treatment",
-          "description": "Advanced finishing and surface treatment techniques"
+          "description": "Advanced surface finishing techniques including laser marking and coating"
         },
         {
           "id": "delivery",
           "step": 6,
           "title": "Packaging & Delivery",
-          "description": "Professional packaging and reliable transportation services"
+          "description": "Secure packaging and efficient logistics ensuring safe component delivery"
         }
       ],
       "title": "Manufacturing Process",
